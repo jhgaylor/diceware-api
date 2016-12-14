@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/jhgaylor/diceware-api#readme",
   "dependencies": {
+    "eff-diceware-passphrase": "^1.0.0",
     "express": "^4.14.0"
   }
 }
