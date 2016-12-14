@@ -1,0 +1,8 @@
+[submodule "deploy/chef"]
+	path = deploy/chef
+	url = git@github.com:jhgaylor/chef-workspace.git
+	branch = master
+[submodule "deploy/terraform/modules"]
+	path = deploy/terraform/modules
+	url = git@github.com:jhgaylor/terraform-modules.git
+	branch = master

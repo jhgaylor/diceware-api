@@ -1,0 +1,12 @@
+name 'app_node'
+maintainer 'Jake Gaylor'
+maintainer_email 'jhgaylor@gmail.com'
+license 'all_rights'
+description 'Installs/Configures an app that uses nodejs behind an nginx proxy.'
+long_description 'Installs/Configures an app that uses nodejs behind an nginx proxy.'
+version '0.1.0'
+
+depends 'base'
+depends 'jhg_nginx'
+depends 'tar'
+depends 'nodejs'

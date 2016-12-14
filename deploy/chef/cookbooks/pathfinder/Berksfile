@@ -1,0 +1,7 @@
+source "https://api.berkshelf.com"
+
+cookbook 'jhg_nginx', path: '../jhg_nginx'
+cookbook 'app_node', path: '../app_node'
+cookbook 'app_static', path: '../app_static'
+
+metadata

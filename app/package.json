@@ -1,0 +1,26 @@
+{
+  "name": "diceware-api",
+  "version": "1.0.0",
+  "description": "A diceware as a service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhgaylor/diceware-api.git"
+  },
+  "keywords": [
+    "diceware",
+    "saas"
+  ],
+  "author": "Jake Gaylor <jhgaylor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhgaylor/diceware-api/issues"
+  },
+  "homepage": "https://github.com/jhgaylor/diceware-api#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
